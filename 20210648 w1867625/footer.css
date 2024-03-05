@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Lato&display=swap');
+
+body{
+    overflow-x: hidden;
+}
+.content {
+    width: 100%;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.footer-grids {
+    background:  rgb(0, 88, 139);;
+    height: 265px;
+    padding-left: 40px;
+}
+
+p.footer-gd {
+    color:   rgb(0, 88, 139);;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 0 12px;
+}
+
+
+.footer {
+    float: left;
+}
+
+.footer h3 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20px;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.footer.one {
+    width: 1443px;
+    margin-left: -40px;
+    margin-right: 100px;
+   margin-top: -34px;
+    
+}
+#footer4{
+    height: 100px;
+    margin-top:30px;
+    padding-top: 50px;
+}
+
+.footer.two {
+    margin-top: 40px
+    
+    
+    
+   
+}
+#button{
+    color: red;
+}
+
+
+.footer.one p {
+    color:  rgb(0, 88, 139);;
+    line-height: 20px;
+    font-size: 16px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+    border: 2px solid yellow;
+}
+
+
+.footer.two p {
+    color:  rgb(0, 88, 139);;
+    line-height: 20px;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+
+.copy-right-grids {
+    padding: 10px;
+    background:  rgb(0, 88, 139);;
+    height: 60px;
+   
+}
+
+.copy-left {
+    float: left;
+}
+#footer4{
+    margin-left: -57px;
+}
+#x1{
+    color: yellow;
+}
+

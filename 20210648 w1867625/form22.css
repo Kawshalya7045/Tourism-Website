@@ -1,0 +1,62 @@
+.formcon{
+    background-color: goldenrod;
+    width: 50%;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 450px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navheader{
+    display:flex ;
+    height: 50px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 88, 139);
+}
+.navheader img{
+    padding: 0px 80px;
+
+}
+.inactivenav,a{
+    font-family: lato,sans-serif;
+    font-weight: 750;
+    font-size: 16px;
+    color: rgb(255, 202, 68);
+    text-decoration: none;
+}
+.navheader nav ul li.activenav{
+    font-family: lato,sans-serif;
+    font-weight: 750;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.con{
+    color: #ffc23d;
+    background-color: rgb(3, 88, 139);
+    border: none;
+    cursor: pointer;
+    padding: 0px 30px;
+}
+.logo{
+    cursor: pointer;
+}
+.navLinks{
+    list-style: none;
+}
+.navLinks li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+.navLinks li a:hover{
+    color: white;
+}
